@@ -1,0 +1,3 @@
+include ':calculator'
+include ':app'
+rootProject.name = "Multi Module Coverage"
